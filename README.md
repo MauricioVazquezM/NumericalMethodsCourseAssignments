@@ -8,10 +8,9 @@
 
 ## Repository Content
 
-- [Template](f)
-  - [Template](f)
-  - [Template](f)
-  - [Template](f)
+- [Assignment 1]('ASSIGNMENT 1\README.md')
+  - [Codes]('ASSIGNMENT 1\Codes')
+  - [Report]('ASSIGNMENT 1\Report')
 
   
 </br>
