@@ -8,9 +8,9 @@
 
 ## Repository Content
 
-- [Assignment 1]('ASSIGNMENT 1\README.md')
-  - [Codes]('ASSIGNMENT 1\Codes')
-  - [Report]('ASSIGNMENT 1\Report')
+- [Assignment 1]('ASSIGNMENT_1/README.md')
+  - [Codes]('ASSIGNMENT_1/Codes')
+  - [Report]('ASSIGNMENT_1/Report')
 
   
 </br>
