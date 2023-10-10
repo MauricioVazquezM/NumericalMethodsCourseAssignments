@@ -11,7 +11,9 @@
 - [Assignment 1](ASSIGNMENT_1\README.md)
   - [Codes](ASSIGNMENT_1\Codes)
   - [Report](ASSIGNMENT_1\Report)
-
+- [Assignment 2](ASSIGNMENT_2\README.md)
+  - [Codes](ASSIGNMENT_2\Codes)
+  - [Report](ASSIGNMENT_2\Report)
   
 </br>
 
