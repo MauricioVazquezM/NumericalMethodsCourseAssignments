@@ -16,6 +16,8 @@
   - [Codes](ASSIGNMENT_3/Codes)
 - [Assignment 4](ASSIGNMENT_4)
   - [Codes](ASSIGNMENT_4/Codes)
+- [Assignment 5](ASSIGNMENT_5)
+  - [Codes](ASSIGNMENT_5/Codes)
   
 </br>
 
